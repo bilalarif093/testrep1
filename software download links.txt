@@ -1,0 +1,13 @@
+1.JDK 22
+https://download.oracle.com/java/22/latest/jdk-22_windows-x64_bin.exe
+2. IntelliJ idea community 
+https://download.jetbrains.com/idea/ideaIC-2024.1.4.exe?_gl=1*cauvkb*_gcl_au*NDE1NzM4NTguMTcyMTQ0OTcwOQ..*_ga*NDE3Nzc1MDU2LjE3MjE0NDk3MDE.*_ga_9J976DJZ68*MTcyMTQ2NDEzMi4zLjEuMTcyMTQ2NDE0NC40OC4wLjA
+3.Xampp
+https://filehippo.com/download_xampp/post_download/?nodl=1
+4.Git 
+https://github.com/git-for-windows/git/releases/download/v2.45.2.windows.1/Git-2.45.2-64-bit.exe
+5.tortoiseGit
+https://download.tortoisegit.org/tgit/2.16.0.0/TortoiseGit-2.16.0.0-64bit.msi
+
+
+
